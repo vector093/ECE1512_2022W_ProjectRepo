@@ -2,6 +2,16 @@
 
 Project B for ECE 1512
 
+## Information on models-
+all the pre trained models are located with the mhist_dataset folder-
+1. teacher_res_new- teacher model used for normal knowledge distilation
+2. student_mobile- student model train with knowledge distilation
+3. mobilenet_no_kd_new- student model trained without Knowledge distilation
+4. teacher_test- teacher used for fitnets
+
+## Information on dataset-
+the dataset is located in the mhist_dataset folder-
+the annotations.csv file is used to split and label all the images in the images folder.
 
 ## Information on how to run the notebooks
 

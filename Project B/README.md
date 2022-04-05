@@ -1,3 +1,18 @@
+# Knowledge Distillation project
+
+Project B for ECE 1512
+
+
+## Information on how to run the notebooks
+
+1. Task 1 notebook-
+   We recommend running it on Google Colab- for this you will have to download the Project A folder from the repository and upload it into your drive.
+   After that you will need to change the paths of the **project folder**, **datasets** and **the model** in the code to your locations in your drive.
+   Finally when running the code the subsections labeled **Create model** and **Training** need not be implemented, as this is there if you wish to create a new model and train    it by yourself, otherwise you can load the pre trained model.
+
+2. task 1 part 2 notebook-
+   We recommend running it on Google Colab- for this you will have to download the Project A folder from the repository and upload it into your drive.
+   After that you will need to update the path of the Pickle file containing the dataset to the location it is saved in your drive.
 
 
 Here are the explanation of the what it is included in the Supplementary file:

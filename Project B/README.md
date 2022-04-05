@@ -16,7 +16,7 @@ the annotations.csv file is used to split and label all the images in the images
 ## Information on how to run the notebooks
 For both notebooks **Task 1** and **Task 1 Part 2** -
 We recommend running it on Google Colab- for this you will have to download the Project A folder from the repository and upload mhist_dataset into your drive.
-After that you will need to change the paths of the **project folder**, **datasets** and **the model** in the code to your locations in your drive. Finally when running the code you can either train the models from scratch or use the pre trained models.
+After that you will need to change the paths of the **project folder**, **datasets** and **the models** in the code to your locations in your drive. Finally when running the code you can either train the models from scratch or use the pre trained models.
 
 
 Here are the explanation of the what it is included in the Supplementary file:
